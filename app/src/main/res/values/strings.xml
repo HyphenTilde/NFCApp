@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFCApp</string>
+    <string name="button_scan_nfc">Scanning the NFC</string>
+</resources>
